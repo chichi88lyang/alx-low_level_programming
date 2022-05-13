@@ -3,12 +3,11 @@
 ![Coffe time](image/no.jpg)
 
 **ABOUT**
-:----:
+:----
 This repository contains programs written for the low-level programming and algorithm track at the alx-SoftwareEngineering program facilitated by Holberton School. I am learning about data structures, algorithms, and other low-level programming concepts while working in the C language. I update this repo with my learning progresses with hands-on projects.
 
 ## DIRECTORIES
 
-:----:
 
 * [0-print_name.c](https://www.github.com/chichi88lyang/alx-low_level_programming/tree/master/0-print_name.c)
 * [0x00-hello_world](https://www.github.com/chichi88lyang/alx-low_level_programming/tree/master/0x00-hello_world)
@@ -38,7 +37,6 @@ This repository contains programs written for the low-level programming and algo
 
 ### WARNING
 
-:----:
 
 ------------------------------------------------------------------------------
 
