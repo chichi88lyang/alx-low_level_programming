@@ -1,6 +1,8 @@
 # [Low-Level Programming - Data Structures, Algorithms,Linux/Unix System Programming](https://www.github.com/chichi88lyang/alx-low_level_programming)
 
-![coffe time!](https://drive.google.com/file/d/1gYsoXOK5v7y55L1nyWOryBBDMh9LFKoL/view?usp=sharing)
+![coffe time!](https://WWW.drive.google.com/file/d/1gYsoXOK5v7y55L1nyWOryBBDMh9LFKoL/view?usp=sharing)
+
+ABOUT
 :----:
 This repository contains programs written for the low-level programming and algorithm track at the alx-SoftwareEngineering program facilitated by Holberton School. I am learning about data structures, algorithms, and other low-level programming concepts while working in the C language. I update this repo with my learning progresses with hands-on projects as listed below:
 
