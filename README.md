@@ -2,11 +2,11 @@
 
 ![Coffe time](image/no.jpg)
 
-ABOUT
+**ABOUT**
 :----:
 This repository contains programs written for the low-level programming and algorithm track at the alx-SoftwareEngineering program facilitated by Holberton School. I am learning about data structures, algorithms, and other low-level programming concepts while working in the C language. I update this repo with my learning progresses with hands-on projects.
 
-DIRECTORIES
+**DIRECTORIES**
 :----:
 
 * [0-print_name.c](https://www.github.com/chichi88lyang/alx-low_level_programming/tree/master/0-print_name.c)
@@ -28,13 +28,15 @@ DIRECTORIES
 * [0x09-static_libraries](https://github.com/chichi88lyang/alx-low_level_programming/tree/master/0x09-static_libraries)
 * [0x10-variadic_functions](https://www.github.com/chichi88lyang/alx-low_level_programming/tree/master/0x10-variadic_functions)
 
-## Author
+**AUTHOR**
+:----:
 
 [Cacious Lyangenda](https://www.linkedin.com/in/focusitstudio1)
 
 **------------------------------------------------------------------------------*
 
-### WARNING
+**WARNING**
+:----:
 
 ------------------------------------------------------------------------------
 
@@ -42,6 +44,7 @@ DIRECTORIES
 
 * This repo may contain some errors. If you notice any, please add a pull request.
 
-## Contact
+**CONTACT**
+:----:
 
-[Follow me on twitter](https://www.twitter.com/FOCUSITSTUDIO1) [Website in progress](https://www.github.com/chichi88lyang) [Linkedin](https://www.linkedin.com/in/focusitstudio1) [Email](https://www.focusitstudio@gmail.com)
+[Follow me on twitter](https://www.twitter.com/FOCUSITSTUDIO1)      [Website in progress](https://www.github.com/chichi88lyang)     [Linkedin](https://www.linkedin.com/in/focusitstudio1)      [Email](https://www.focusitstudio@gmail.com)
