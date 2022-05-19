@@ -1,117 +1,63 @@
-Tasks
-0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget
-mandatory
-Write a function that prints a string, followed by a new line.
+# [Low-Level Programming - Data Structures, Algorithms,Linux/Unix System Programming](https://www.github.com/chichi88lyang/alx-low_level_programming)
 
-Prototype: void _puts_recursion(char *s);
-FYI: The standard library provides a similar function: puts. Run man puts to learn more.
-Repo:
+![coffe time](image/no.jpg)
 
-GitHub repository: alx-low_level_programming
-Directory: 0x08-recursion
-File: 0-puts_recursion.c
+**ABOUT**
+:----
+This repository contains programs written for the low-level programming and algorithm track at the alx-SoftwareEngineering program facilitated by Holberton School. I am learning about data structures, algorithms, and other low-level programming concepts while working in the C language. I update this repo with my learning progresses with hands-on projects.
 
-1. Why is it so important to dream? Because, in my dreams we are together
-mandatory
-Write a function that prints a string in reverse.
+## DIRECTORIES
 
-Prototype: void _print_rev_recursion(char *s);
 
-Repo:
+* [0-print_name.c](https://www.github.com/chichi88lyang/alx-low_level_programming/tree/master/0-print_name.c)
+* [0x00-hello_world](https://www.github.com/chichi88lyang/alx-low_level_programming/tree/master/0x00-hello_world)
+* [0x0A-argc_argv](https://www.github.com/chichi88lyang/alx-low_level_programming/tree/master/0x0A-argc_argv)
+* [0x0B-malloc_free](https://www.github.com/chichi88lyang/alx-low_level_programming/tree/master/0x0B-malloc_free)
+* [0x0C-more_malloc_free](https://www.github.com/chichi88lyang/alx-low_level_programming/tree/master/0x0C-more_malloc_free)
+* [0x0D-preprocessor](https://www.github.com/chichi88lyang/alx-low_level_programming/tree/master/0x0D-preprocessor)
+* [0x0E-structures_typedef](https://www.github.com/chichi88lyang/alx-low_level_programming/tree/master/0x0E-structures_typedef)
+* [0x0F-function_pointers](https://www.github.com/chichi88lyang/alx-low_level_programming/tree/master/0x0F-function_pointers)
+* [0x01-variables_if_else_while](https://www.github.com/chichi88lyang/alx-low_level_programming/tree/master/0x01-variables_if_else_while)
+* [0x02-functions_nested_loops](https://www.github.com/chichi88lyang/alx-low_level_programming/tree/master/0x02-functions_nested_loops)
+* [0x03-debugging](https://www.github.com/chichi88lyang/alx-low_level_programming/tree/master/0x03-debugging)
+* [0x04-more_functions_nested_loops](https://www.github.com/chichi88lyang/alx-low_level_programming/tree/master/0x04-more_functions_nested_loops)
+* [0x05-pointers_arrays_strings](https://www.github.com/chichi88lyang/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings)
+* [0x06-more_pointers_arrays_strings](https://www.github.com/chichi88lyang/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings)
+* [0x07-even_more_pointers_arrays_strings](https://www.github.com/chichi88lyang/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings)
+* [0x08-recursion](https://www.github.com/chichi88lyang/alx-low_level_programming/tree/master/0x08-recursion)
+* [0x09-static_libraries](https://github.com/chichi88lyang/alx-low_level_programming/tree/master/0x09-static_libraries)
+* [0x10-variadic_functions](https://www.github.com/chichi88lyang/alx-low_level_programming/tree/master/0x10-variadic_functions)
 
-GitHub repository: alx-low_level_programming
-Directory: 0x08-recursion
-File: 1-print_rev_recursion.c
+**AUTHOR**
+:----:
 
-2. Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange
-mandatory
-Write a function that returns the length of a string.
+[Cacious Lyangenda](https://www.linkedin.com/in/focusitstudio1)
 
-Prototype: int _strlen_recursion(char *s);
+------------------------------------------------------------------------------
 
-Repo:
+### WARNING
 
-GitHub repository: alx-low_level_programming
-Directory: 0x08-recursion
-File: 2-strlen_recursion.c
 
-3. You mustn't be afraid to dream a little bigger, darling
-mandatory
-Write a function that returns the factorial of a given number.
+------------------------------------------------------------------------------
 
-Prototype: int factorial(int n);
-If n is lower than 0, the function should return -1 to indicate an error
-Factorial of 0 is 1
+* This repo is done as a school assignment. Beware of copying my responses. I recommend you to read resources and come up with your own solutions instead. Feel free to reach out for help!
 
-Repo:
+* This repo may contain some errors. If you notice any, please add a pull request.
 
-GitHub repository: alx-low_level_programming
-Directory: 0x08-recursion
-File: 3-factorial.c
+**CONTACT**
+:----:
 
-4. Once an idea has taken hold of the brain it's almost impossible to eradicate
-mandatory
-Write a function that returns the value of x raised to the power of y.
+- 📫 How to reach me **cash88lyangenda@gmail.com**
 
-Prototype: int _pow_recursion(int x, int y);
-If y is lower than 0, the function should return -1
-FYI: The standard library provides a different function: pow. Run man pow to learn more.
+- ⚡ Fun fact **Code breaker**
 
-Repo:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/focusitstudio1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="focusitstudio1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/focusitstudio1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="focusitstudio1" height="30" width="40" /></a>
+<a href="https://fb.com/chisenga cacious lyangenda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chisenga cacious lyangenda" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/focus it studio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="focus it studio" height="30" width="40" /></a>
+</p>
 
-GitHub repository: alx-low_level_programming
-Directory: 0x08-recursion
-File: 4-pow_recursion.c
-
-5. Your subconscious is looking for the dreamer
-mandatory
-Write a function that returns the natural square root of a number.
-
-Prototype: int _sqrt_recursion(int n);
-If n does not have a natural square root, the function should return -1
-FYI: The standard library provides a different function: sqrt. Run man sqrt to learn more.
-
-Repo:
-
-GitHub repository: alx-low_level_programming
-Directory: 0x08-recursion
-File: 5-sqrt_recursion.c
-
-6. Inception. Is it possible?
-mandatory
-Write a function that returns 1 if the input integer is a prime number, otherwise return 0.
-
-Prototype: int is_prime_number(int n);
-
-Repo:
-
-GitHub repository: alx-low_level_programming
-Directory: 0x08-recursion
-File: 6-is_prime_number.c
-
-7. They say we only use a fraction of our brain's true potential. Now that's when we're awake. When we're asleep, we can do almost anything
-#advanced
-Write a function that returns 1 if a string is a palindrome and 0 if not.
-
-Prototype: int is_palindrome(char *s);
-An empty string is a palindrome
-
-Repo:
-
-GitHub repository: alx-low_level_programming
-Directory: 0x08-recursion
-File: 100-is_palindrome.c
-
-8. Inception. Now, before you bother telling me it's impossible...
-#advanced
-Write a function that compares two strings and returns 1 if the strings can be considered identical, otherwise return 0.
-
-Prototype: int wildcmp(char *s1, char *s2);
-s2 can contain the special character *.
-The special char * can replace any string (including an empty string)
-
-Repo:
-
-GitHub repository: alx-low_level_programming
-Directory: 0x08-recursion
-File: 101-wildcmp.c
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
