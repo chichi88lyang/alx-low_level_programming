@@ -1,3 +1,5 @@
+
+
 # [Low-Level Programming - Data Structures, Algorithms,Linux/Unix System Programming](https://www.github.com/chichi88lyang/alx-low_level_programming)
 
 ![coffe time](image/no.jpg)
@@ -27,6 +29,10 @@ This repository contains programs written for the low-level programming and algo
 * [0x08-recursion](https://www.github.com/chichi88lyang/alx-low_level_programming/tree/master/0x08-recursion)
 * [0x09-static_libraries](https://github.com/chichi88lyang/alx-low_level_programming/tree/master/0x09-static_libraries)
 * [0x10-variadic_functions](https://www.github.com/chichi88lyang/alx-low_level_programming/tree/master/0x10-variadic_functions)
+* [0x12-singly_linked_lists](https://github.com/chichi88lyang/alx-low_level_programming/tree/master/0x12-singly_linked_lists)
+* [0x13-more_singly_linked_lists](https://github.com/chichi88lyang/alx-low_level_programming/tree/master/0x13-more_singly_linked_lists)
+* [0x14-bit_manipulation](https://github.com/chichi88lyang/alx-low_level_programming/tree/master/0x14-bit_manipulation)
+* [0x15-file_io](https://github.com/chichi88lyang/alx-low_level_programming/tree/master/0x15-file_io)
 
 **AUTHOR**
 :----:
@@ -37,7 +43,6 @@ This repository contains programs written for the low-level programming and algo
 
 ### WARNING
 
-
 ------------------------------------------------------------------------------
 
 * This repo is done as a school assignment. Beware of copying my responses. I recommend you to read resources and come up with your own solutions instead. Feel free to reach out for help!
@@ -45,11 +50,11 @@ This repository contains programs written for the low-level programming and algo
 * This repo may contain some errors. If you notice any, please add a pull request.
 
 **CONTACT**
-:----:
+:
 
-- 📫 How to reach me **cash88lyangenda@gmail.com**
+* 📫 How to reach me **cash88lyangenda@gmail.com**
 
-- ⚡ Fun fact **Code breaker**
+* ⚡ Fun fact **Code breaker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -61,3 +66,171 @@ This repository contains programs written for the low-level programming and algo
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
